@@ -2,7 +2,8 @@
 Aplikacja stworzona na potrzeby rekrutacji do Koła Naukowego Solvro
 Technologia: VueJs + Vuetify
 
-W folderze 
+W folderze SERVER_API znajduję się serwer do włączenia.
+
 
 ## Project setup
 ```
